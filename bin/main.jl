@@ -1,3 +1,2 @@
-import Pkg;
-Pkg.add("httpserver")
-bootServer()
+include("../src/httpserver.jl")
+httpserver.bootServer()
