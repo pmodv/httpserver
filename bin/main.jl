@@ -1,3 +1,3 @@
-using httpserver
-
+import Pkg;
+Pkd.add("httpserver")
 bootServer()
