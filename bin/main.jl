@@ -1,1 +1,3 @@
-include("../src/httpserver.jl")
+using httpserver
+
+bootServer()
