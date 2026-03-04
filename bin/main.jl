@@ -1,3 +1,3 @@
 import Pkg;
-Pkd.add("httpserver")
+Pkg.add("httpserver")
 bootServer()
